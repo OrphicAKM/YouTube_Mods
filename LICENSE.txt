@@ -1,0 +1,18 @@
+# Custom License for YouTube Mods
+
+Copyright 2025 Orphic
+
+## Terms of Use
+- You may use this mod for personal or educational purposes only.
+- Redistribution of this mod is not allowed without explicit permission from Orphic.
+- You may not sell this mod or distribute it for profit without permission.
+- Modifications to this mod are not allowed unless you obtain written permission from Orphic.
+
+## Commercial Use
+- Commercial use of this mod (including redistribution for profit) is prohibited unless you obtain explicit permission from [Your Name].
+
+## Distribution
+- You may distribute this mod for free, but not for profit. Redistribution should link back to the official source (your website).
+
+## Disclaimer
+- This mod is provided "as-is" without warranty of any kind, either express or implied.
